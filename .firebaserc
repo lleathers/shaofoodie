@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "shaofoodie": {
+      "hosting": {
+        "shaofoodie": [
+          "shaofoodie"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "shaofoodie"
+  }
+}
